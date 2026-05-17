@@ -1,6 +1,6 @@
  <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77333&center=true&vCenter=true&width=435&lines=Hi+I'm+Vedant+Yeola;Software+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77333&center=true&vCenter=true&width=435&lines=Hi+I'm+Vaishnavi+Dethe;Java+Developer+%26+QA Engineering" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,17 +13,6 @@
 - 💬 **Ask me about:** Java, React, Python, and Testng
 - 📫 **How to reach me:** [vaishnavidethe02@gamil.com](mailto:vaishnavidethe02@gamil.com)
 
-
----
-
-### 🐍 Contribution Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VedantYeola/VedantYeola/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VedantYeola/VedantYeola/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VedantYeola/VedantYeola/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ### 🛠 Languages and Tools
 <div align="left">
