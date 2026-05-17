@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="center">Hi 👋! My name is <b>Vedant Yeola</b> and I'm a <b>Java Developer | QA Engineering.</b></h2>
+<h2 align="center">Hi 👋! My name is <b>Vaishnavi Dethe</b> and I'm a <b>Java Developer | QA Engineering.</b></h2>
 ---
 
 ### 🔭 Personal Information & Goals
