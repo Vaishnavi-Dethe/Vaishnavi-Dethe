@@ -11,7 +11,7 @@
 - 🌱 **I’m currently learning:** ** Cucumber, Docker, and BDD**
 - 👨‍💻 **All of my projects are available at:** [https://github.com/Vaishnavi-Dethe](https://github.com/Vaishnavi-Dethe)
 - 💬 **Ask me about:** Java, React, Python, and Testng
-- 📫 **How to reach me:** [vaishnavidethe02@gamil.com](mailto:vaishnavidethe02@gamil.com)
+- 📫 **How to reach me:** [vaishnavidethe02@gmail.com](mailto:vaishnavidethe02@gmail.com)
 
 
 ### 🛠 Languages and Tools
